@@ -1,23 +1,12 @@
 <p align="center">
   <strong>IINDEV</strong><br/>
-  Digital Infrastructure Engineering
+   Systems that scale.
 </p>
 
----
-
-# IINDEV
-
-> Systems that scale.
-
----
-
 Backend · Infrastructure · AI
-
 ---
-
 Clean architecture.  
 Serious software.
-
 ---
 
 iindev@tuta.io

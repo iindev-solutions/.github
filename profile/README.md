@@ -1,12 +1,7 @@
 <p align="center">
   <strong>IINDEV</strong><br/>
-   Systems that scale.
+  <br/>
+   <strong>  Modern solutions. Simply.</strong>
 </p>
-
-Backend · Infrastructure · AI
----
-Clean architecture.  
-Serious software.
----
 
 iindev@tuta.io

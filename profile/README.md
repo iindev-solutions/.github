@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>IINDEV</strong><br/>
+  <strong>IINDiinda</strong><br/>
   <br/>
    <strong>  Modern solutions. Simply.</strong>
 </p>
